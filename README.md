@@ -1,5 +1,5 @@
 # Installation von Titzenbrew / TizenTube auf einem Samsung TV
-Deutsche Übersetzung
+Deutsche Übersetzung;
 Alle Tools und weiter Informationen findet man unter: https://github.com/reisxd/TizenBrew
 
 ## TizenBrew & TizenTube für Samsung (Tizen) TV
